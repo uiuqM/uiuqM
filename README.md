@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Alt text](/header.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiuqM&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiuqM&theme=jolly&show_icons=true)
