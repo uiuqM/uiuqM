@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">Computer science student at UFT.</h3>
 
 <h3 align="left">Connect with me:</h3>
+
+[LinkedIn](https://www.linkedin.com/in/wilque-muriel-24949a200/)
+
 <p align="left">
 </p>
 
