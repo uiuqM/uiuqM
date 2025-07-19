@@ -48,3 +48,4 @@
 <h1 align="left">Certifications</h1>
 
 ###
+![Credly Badge](https://images.credly.com/size/140x140/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
